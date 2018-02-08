@@ -1,0 +1,1 @@
+This project is suspended due to the fact that the game image search seems to not work in the game Warframe.
