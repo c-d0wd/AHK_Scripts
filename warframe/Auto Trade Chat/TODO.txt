@@ -1,3 +1,0 @@
--Add help GUI
--Add way to save previous inputs
--Way to loop the chat for x times
