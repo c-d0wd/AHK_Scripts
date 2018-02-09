@@ -2,6 +2,7 @@
 
 ;Warframe Slide Macro
 ;Author: VGNegative
+;Last Edit: 7 February 2018
 
 ;Allow Multiple inputs per instance. Allows you to stop once the loop is started
 #MaxThreadsPerHotkey 3
@@ -10,7 +11,7 @@
 t:= 0
 
 ;Deault Key bind, can be whatever
-F8:: 
+F1:: 
 {
 	;If the loop is off
 	if (t = 0)
@@ -59,5 +60,5 @@ F8::
 }
 
 ExitApp
-; Default for turning the script off.
-^x:: ExitApp
+
+^+x:: ExitApp ;Default keys for killing scripts
