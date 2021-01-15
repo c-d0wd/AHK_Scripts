@@ -16,7 +16,7 @@ F1::
 	;If the loop is off
 	if (t = 0)
 	{
-		;Turn on at slow speed (j = speed var in ms)
+		;Turn on at slow speed (j = speed delay var in ms)
 		t = 1
 		j:= 560
 	}
